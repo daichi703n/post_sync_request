@@ -1,4 +1,4 @@
-# jsonNestGet
+# jsonSyncRequest
 
-[階層JSONの子オブジェクトの特定データを取得する(Node.js)](http://designetwork.hatenablog.com/entry/2016/11/18/json-nest-pickup-node-js)
+[sync-requestモジュール(Node.js)でJSONをPOSTする](http://designetwork.hatenablog.com/entry/2016/11/19/sync-request-post-node-js)
 
